@@ -1,3 +1,3 @@
 Mypackage
 =========
-This is m first R package
+This is my first R package
