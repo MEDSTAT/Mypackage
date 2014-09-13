@@ -16,8 +16,4 @@ The product of \code{x} and \code{y}.
 \description{
 Multiply together two numbers.
 }
-\examples{
-mult(1, 2)
-mult(10, 1/10)
-}
 

@@ -14,10 +14,6 @@ add(x, y)
 The sum of \code{x} and \code{y}.
 }
 \description{
-Add together two numbers.
-}
-\examples{
-add(1, 1)
-add(10, 1)
+This is a new line
 }
 
