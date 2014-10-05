@@ -11,7 +11,7 @@ add(x, y)
 \item{y}{A number.}
 }
 \value{
-The sum of \code{x} and \code{y}.
+The sum of \code{x} and \code{y}
 }
 \description{
 This is a new line
